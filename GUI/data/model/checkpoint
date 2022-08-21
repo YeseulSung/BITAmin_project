@@ -1,0 +1,2 @@
+model_checkpoint_path: "thres_75.ckpt"
+all_model_checkpoint_paths: "thres_75.ckpt"
